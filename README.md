@@ -37,7 +37,10 @@
 
 
  ## OUTPUT
- ![Uploading 1.2 Drawing edm_page-0001.jpg…]()
+ 
+ ![1 2 Drawing edm_page-0001](https://user-images.githubusercontent.com/119558093/228438523-253cd6bc-f209-4833-9812-6f391aff29ad.jpg)
+
+ 
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
